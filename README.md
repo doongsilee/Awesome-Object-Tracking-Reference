@@ -62,14 +62,22 @@ MixFormer (CVPR 2022)
 
 Towards Realtime MOT (https://github.com/Zhongdao/Towards-Realtime-MOT)
 
+Unicorn (https://github.com/MasterBin-IIAU/Unicorn)
+
+Ocean (ECEV 2020)
+
+SiamDW (CVPR 2019)
+
+FairMot 
+
+
 ## Re Identification
 
 Torchreid (https://github.com/KaiyangZhou/deep-person-reid)
 
 Pytorch ReID (https://github.com/layumi/Person_reID_baseline_pytorch)
 
-Unicorn (https://github.com/MasterBin-IIAU/Unicorn)
-
+bpbreid (https://github.com/vlsomers/bpbreid)
 
 
 ## Reference
@@ -78,3 +86,4 @@ Single Object Tracking: A survey of Methods, Datasets, and Evalutation Metrics (
 mmTracking (https://github.com/open-mmlab/mmtracking)
 pyTracking (https://github.com/visionml/pytracking)
 PaddleDetection (https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.1/configs/mot)
+Trackit (https://github.com/researchmm/TracKit)
