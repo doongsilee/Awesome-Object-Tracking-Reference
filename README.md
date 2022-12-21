@@ -4,10 +4,17 @@
 
 ## Deep Learning Framework
 
-Tensorflow
-Pytorh
-Mxnet
-Darknet
+Tensorflow - Google
+Pytorh - Facebook
+Mxnet - Microsoft
+TensorRT - Nvidia
+Darknet??
+
+##Object tracking Architecture
+
+JDE (Joint Detection and Embedding) Model
+
+SDE 
 
 ## Object tracking sub-tasks
 
