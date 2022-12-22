@@ -90,7 +90,11 @@ bpbreid (https://github.com/vlsomers/bpbreid)
 ## Reference
 
 Single Object Tracking: A survey of Methods, Datasets, and Evalutation Metrics (Research by Zahra et al., https://arxiv.org/pdf/2201.13066.pdf)
+
 mmTracking (https://github.com/open-mmlab/mmtracking)
+
 pyTracking (https://github.com/visionml/pytracking)
+
 PaddleDetection (https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.1/configs/mot)
+
 Trackit (https://github.com/researchmm/TracKit)
