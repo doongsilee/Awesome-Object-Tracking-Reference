@@ -90,6 +90,10 @@ Pytorch ReID (https://github.com/layumi/Person_reID_baseline_pytorch)
 
 bpbreid (https://github.com/vlsomers/bpbreid)
 
+## Courses
+
+StackAubse (https://stackabuse.com/courses/practical-deep-learning-for-computer-vision-with-python/)
+
 
 ## Reference
 
@@ -102,3 +106,5 @@ pyTracking (https://github.com/visionml/pytracking)
 PaddleDetection (https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.1/configs/mot)
 
 Trackit (https://github.com/researchmm/TracKit)
+
+
